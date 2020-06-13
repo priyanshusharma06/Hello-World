@@ -1,3 +1,4 @@
 # Hello-World
 Basics about Git Hub
-This is the trial test to verify the merging of branches to master
+This is the trial test to verify the merging of branches to master /n
+now trying something new
